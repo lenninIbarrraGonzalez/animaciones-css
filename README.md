@@ -36,3 +36,8 @@ https://cssgradient.io/gradient-backgrounds/
 backface visibility
 https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility
 https://www.w3schools.com/cssref/trycss3_backface_inuse.htm
+
+transiciones
+https://static.platzi.com/media/public/uploads/transiciones_2a4663d3-d90c-4b27-a69d-228c9a767b40.pdf
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/transition
