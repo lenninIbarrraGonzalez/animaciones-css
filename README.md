@@ -19,3 +19,20 @@ pagina de colores
 https://htmlcolorcodes.com/
 
 
+curvas de acelaración
+https://easings.net/
+
+https://cubic-bezier.com/#.17,.67,.83,.67
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function
+
+https://developer.mozilla.org/es/docs/Web/CSS/CSS_Positioning/Understanding_z_index/The_stacking_context
+
+
+
+Pagina de gradientes
+https://cssgradient.io/gradient-backgrounds/
+
+backface visibility
+https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility
+https://www.w3schools.com/cssref/trycss3_backface_inuse.htm
