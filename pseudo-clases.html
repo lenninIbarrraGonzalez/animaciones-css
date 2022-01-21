@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pseudo Clases</title>
+  <style>
+    a:link{
+      color: chartreuse;
+    }
+    /* los link visitados */
+    a:visited {
+      color: coral;
+    }
+    a:hover{
+      background-color: cadetblue;
+    }
+    /* todos los p que no tengan la clase maravilla */
+    p:not(.maravilla){
+      color: cornflowerblue;
+    }
+    /* selecciona el primer div dentro de container */
+    .container div:nth-child(1){
+      color: crimson;
+    }
+  </style>
+</head>
+<body>
+  <a href="/">Alicia</a>
+  <p>en el</p>
+  <p class="maravilla">país</p>
+  <div class="container">
+    <div>texto dumi</div>
+    <div>texto dumi</div>
+    <div>texto dumi</div>
+  </div>
+</body>
+</html>
